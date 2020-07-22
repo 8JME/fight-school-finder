@@ -13,7 +13,7 @@ class Header extends Component {
         return (
             <div>
                 <Jumbotron>
-
+                    <h1>FSF</h1>
                 </Jumbotron>
                 <Navbar color="dark" sticky="top">
                     <NavbarBrand className="text-white">Fight School Finder</NavbarBrand>

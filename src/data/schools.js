@@ -44,4 +44,49 @@ export const SCHOOLS = [
         arts: [],
         description: 'Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? '
     },
+    {
+        id: 5,
+        name: 'some school',
+        address: '123 Easy Street',
+        city: 'some city',
+        state: 'some state',
+        arts: [],
+        description: 'Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? '
+    },
+    {
+        id: 6,
+        name: 'some school',
+        address: '123 Easy Street',
+        city: 'some city',
+        state: 'some state',
+        arts: [],
+        description: 'Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? '
+    },
+    {
+        id: 7,
+        name: 'some school',
+        address: '123 Easy Street',
+        city: 'some city',
+        state: 'some state',
+        arts: [],
+        description: 'Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? '
+    },
+    {
+        id: 8,
+        name: 'some school',
+        address: '123 Easy Street',
+        city: 'some city',
+        state: 'some state',
+        arts: [],
+        description: 'Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? '
+    },
+    {
+        id: 9,
+        name: 'some school',
+        address: '123 Easy Street',
+        city: 'some city',
+        state: 'some state',
+        arts: [],
+        description: 'Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? '
+    },
 ];
