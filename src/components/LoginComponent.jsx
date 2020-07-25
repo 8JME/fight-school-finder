@@ -9,10 +9,10 @@ class Login extends Component {
                 <CardBody className="shadow-lg">
                     <Form>
                         <FormGroup>
-                            <Input type="text" name="username" placeholder="enter your username" />
+                            <Input type="text" name="username" placeholder="Email" />
                         </FormGroup>
                         <FormGroup>
-                            <Input type="password" name="password" placeholder="enter your password" />
+                            <Input type="password" name="password" placeholder="Password" />
                         </FormGroup>
                         <Button className="btn btn-lg btn-block btn-dark">Login</Button>
                         <hr />
